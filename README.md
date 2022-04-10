@@ -1,7 +1,6 @@
 # stepik_autotest_course_final_project
 
-Это финальный проект курса "Автоматизация тестирования с помощью Selenium и Python", 
-образовательной платформы stepik.org
+This is final profect for stepik.org course "Autotests in Python with Selenium"
 
-Тесты нужно запускать в консоли, из корневой папки проекта, командой:
+Run tests with console, in root project folder, command:
 pytest -v --tb=line --language=en -m need_review
